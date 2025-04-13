@@ -13,6 +13,7 @@ You can import the `.ics` file into:
 - Google Calendar
 - Outlook
 - Apple Calendar
+  (Note: check import_guide file to see how to import)
 
 ### 💡 How it was Made
 Manually formatted by hand in compliance with the [iCalendar RFC 5545](https://datatracker.ietf.org/doc/html/rfc5545) specification.
