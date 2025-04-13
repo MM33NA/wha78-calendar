@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chimbori//CSV to iCal Converter// https://csv-to-ical.chimbori.com/ //EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME;VALUE=TEXT:ical
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:World Heart Summit
+DTSTAMP:20250517T000000
+DESCRIPTION:World Heart Federation. Register here: https://world-heart-federation.org/world-heart-summit/registration/
+DTSTART;TZID=Europe/Zurich:20250517T000000
+DTEND;TZID=Europe/Zurich:20250517T000000
+LOCATION:Campus Biotech, 9 Chemin des Mines, 1202 Geneva.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Heart Summit
+DTSTAMP:20250518T000000
+DESCRIPTION:World Heart Federation. Register here: https://world-heart-federation.org/world-heart-summit/registration/
+DTSTART;TZID=Europe/Zurich:20250518T000000
+DTEND;TZID=Europe/Zurich:20250518T000000
+LOCATION:Campus Biotech, 9 Chemin des Mines, 1202 Geneva.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building bridges: how national strategies can deliver interconnected care for cardiovascular, renal and metabolic conditions (report launch)
+DTSTAMP:20250519T080000
+DESCRIPTION:Boehringer Ingelheim in collaboration with NCD Alliance. Register here: https://lu.ma/BoehringerIngelheimincollaborationwithNCDAlliance?mkt_tok=Njg1LUtCTC03NjUAAAGZZtYq4udavwuC50eDuUVXmZfVXU-4lo5FEt-375rEiPZdzyzCDMCNYsw9lNLHGYY89Cc2uTfDSgyqJ2HR-fLjUHo9ANLr7jrvFug3L7mOosi-1YI
+DTSTART;TZID=Europe/Zurich:20250519T080000
+DTEND;TZID=Europe/Zurich:20250519T093000
+LOCATION:InterContinental Hotel.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finding the triple win: better outcomes for people with lived experience, healthcare systems and government
+DTSTAMP:20250519T100000
+DESCRIPTION:Boehringer Ingelheim in collaboration with NCD Alliance. Register here: https://lu.ma/BoehringerIngelheimincollaborationwithNCDAlliance?mkt_tok=Njg1LUtCTC03NjUAAAGZZtYq4udavwuC50eDuUVXmZfVXU-4lo5FEt-375rEiPZdzyzCDMCNYsw9lNLHGYY89Cc2uTfDSgyqJ2HR-fLjUHo9ANLr7jrvFug3L7mOosi-1YI
+DTSTART;TZID=Europe/Zurich:20250519T100000
+DTEND;TZID=Europe/Zurich:20250519T113000
+LOCATION:InterContinental Hotel.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advocacy in action: bringing lived experience to the global health policy debate
+DTSTAMP:20250519T120000
+DESCRIPTION:Boehringer Ingelheim in collaboration with NCD Alliance. Register here: https://lu.ma/632ygys7
+DTSTART;TZID=Europe/Zurich:20250519T120000
+DTEND;TZID=Europe/Zurich:20250519T131500
+LOCATION:InterContinental Hotel.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Airways ahead: breathing new life into policy for lung health
+DTSTAMP:20250519T133000
+DESCRIPTION:Boehringer Ingelheim in collaboration with NCD Alliance. Register here: https://lu.ma/vxfbtijb
+DTSTART;TZID=Europe/Zurich:20250519T133000
+DTEND;TZID=Europe/Zurich:20250519T150000
+LOCATION:InterContinental Hotel.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Progress toward parity
+DTSTAMP:20250519T160000
+DESCRIPTION:Boehringer Ingelheim. Register here: https://lu.ma/svxx5mal
+DTSTART;TZID=Europe/Zurich:20250519T160000
+DTEND;TZID=Europe/Zurich:20250519T173000
+LOCATION:InterContinental Hotel.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advancing NCD Care in Humanitarian Settings Ahead of UNHLM 2025
+DTSTAMP:20250520T170000
+DESCRIPTION:International Federation of the Red Cross, NCD Alliance, UN High Commission for Refugees, International Alliance for Diabetes Action, International Rescue Committee, Danish Red Cross. Registration details to come
+DTSTART;TZID=Europe/Zurich:20250520T170000
+DTEND;TZID=Europe/Zurich:20250520T190000
+LOCATION:IFRC- HQ, Auditorium B, Chemin Crêts 17, Petit Saconnex, 1209.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skin Diseases as a Global Health Priority
+DTSTAMP:20250520T180000
+DESCRIPTION:GlobalSkin, International Alliance of Dermatology Patient Organizations, International League of Dermatological Societies, Fundacion Anesvad, Health Diplomacy Alliance. Register here: https://www.eventbrite.ch/e/skin-diseases-as-a-global-health-priority-tickets-1270167177219
+DTSTART;TZID=Europe/Zurich:20250520T180000
+DTEND;TZID=Europe/Zurich:20250520T200000
+LOCATION:Hotel President Wilson, Geneva.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Power of Partnerships: Expanding the Private Sector's Role in Health
+DTSTAMP:20250521T080000
+DESCRIPTION:International SOS together with WHOF, GIZ, ENI and Sanofi. Register here: https://www.internationalsos.com/events/the-power-of-partnership-wider-private-sector
+DTSTART;TZID=Europe/Zurich:20250521T080000
+DTEND;TZID=Europe/Zurich:20250521T100000
+LOCATION:The Royal Hotel, Geneva, Switzerland | Rue de Lausanne 41, 1201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Securing the Future of Global Health - United Front for Sustainable Financing
+DTSTAMP:20250521T100000
+DESCRIPTION:Infectious Disease Alliance, GHCT, and CARB-X. Register here: https://www.id-alliance.org/event-details/wha78-side-event-securing-the-future-of-global-health-united-front-for-sustainable-financing
+DTSTART;TZID=Europe/Zurich:20250521T100000
+DTEND;TZID=Europe/Zurich:20250521T120000
+LOCATION:Location TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oral Health & NCDs: Strategies for Inclusive Health Care
+DTSTAMP:20250521T100000
+DESCRIPTION:Devex and Haleon. Register here: https://pages.devex.com/devex-checkup-at-wha-78.html
+DTSTART;TZID=Europe/Zurich:20250521T100000
+DTEND;TZID=Europe/Zurich:20250521T110000
+LOCATION:InterContinental Hotel.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unlocking Access to Insulin: Advancing Public-Private Partnerships for Equitable Diabetes Care
+DTSTAMP:20250521T120000
+DESCRIPTION:Helmsley Charitable Trust
+DTSTART;TZID=Europe/Zurich:20250521T120000
+DTEND;TZID=Europe/Zurich:20250521T134500
+LOCATION:Location TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Health Without Borders - Integrated Primary Healthcare for All
+DTSTAMP:20250521T140000
+DESCRIPTION:Infectious Diseases Alliance and Sightsavers. Register here: https://www.id-alliance.org/event-details/wha78-side-event-health-without-borders-integrated-primary-healthcare-for-all
+DTSTART;TZID=Europe/Zurich:20250521T140000
+DTEND;TZID=Europe/Zurich:20250521T160000
+LOCATION:Location TBD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Plan to Impact 2025 report launch
+DTSTAMP:20250521T173000
+DESCRIPTION:Alzheimer's Disease International. Register here: https://www.tickettailor.com/events/alzheimersdiseaseinternational/1590675
+DTSTART;TZID=Europe/Zurich:20250521T173000
+DTEND;TZID=Europe/Zurich:20250521T191500
+LOCATION:Location TBD
+END:VEVENT
+END:VCALENDAR
