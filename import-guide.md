@@ -1,10 +1,12 @@
 # Import Guide for WHA78 Calendar (.ics file)
 
-Follow the instructions below to import the WHA78 events calendar into your preferred calendar app.
+**Follow the instructions below to import the WHA78 events calendar into your preferred calendar app.**
 
 📥 First, download the Calendar File
 Click the link below to download the .ics file:
+
 👉🏽 [Download `wha78-events.ics`](https://raw.githubusercontent.com/MM33NA/wha78-calendar/main/wha78-events.ics)
+
 **_Note: Right-click the link (or long-press on mobile) and choose "Save link as..." to download the file to your device._**
 
 ## ✅ Google Calendar
