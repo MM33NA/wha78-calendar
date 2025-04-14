@@ -5,8 +5,7 @@ Follow the instructions below to import the WHA78 events calendar into your pref
 📥 First, download the Calendar File
 Click the link below to download the .ics file:
 👉🏽 [Download `wha78-events.ics`](https://raw.githubusercontent.com/MM33NA/wha78-calendar/main/wha78-events.ics)
-Or, navigate to the file in the repository and click the Download button.
-Note: Right-click the link (or long-press on mobile) and choose "Save link as..." to download the file to your device.
+**_Note: Right-click the link (or long-press on mobile) and choose "Save link as..." to download the file to your device._**
 
 ## ✅ Google Calendar
 
