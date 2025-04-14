@@ -20,5 +20,8 @@ Manually formatted by hand in compliance with the [iCalendar RFC 5545](https://d
 
 ### 📂 File
 - `wha78-events.ics`: The calendar file containing the events.
-- To download the `.ics` file, click the [Download Link](https://raw.githubusercontent.com/MM33NA/wha78-calendar/refs/heads/main/ical.ics) or navigate to the file in the repository and click the **Download** button.
 
+### 📥 Download the Calendar File
+- To download the `.ics` file, click the👉🏽 [Download Link](https://raw.githubusercontent.com/MM33NA/wha78-calendar/refs/heads/main/ical.ics) or navigate to the file in the repository and click the **Download** button.
+- Right-click (or long-press on mobile)
+- Select "Save link as..." to download the file
